@@ -1,4 +1,4 @@
 'for-fun' react app
 ___
 
- react here, react there, react is everywhere.
+ react is here, react is there, react is everywhere.
